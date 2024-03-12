@@ -1,5 +1,5 @@
 /*
-My name is Kazi Shahryar Rahman and my Student ID: 3151623. The assignment contains 5 tasks and I gave information above
+My name is Kazi Shahryar Rahman. The assignment contains 5 tasks and I gave information above
  the programs.
 */
 import java.util.Scanner;
